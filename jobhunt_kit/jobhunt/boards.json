@@ -1,0 +1,184 @@
+[
+  {
+    "company": "Airbnb",
+    "ats": "greenhouse",
+    "slug": "airbnb",
+    "india_postings": 12,
+    "checked_on": "2026-11-16"
+  },
+  {
+    "company": "Atlan",
+    "ats": "ashby",
+    "slug": "atlan",
+    "india_postings": 3,
+    "checked_on": "2026-11-16"
+  },
+  {
+    "company": "Cars24",
+    "ats": "smartrecruiters",
+    "slug": "cars24",
+    "india_postings": 1,
+    "checked_on": "2026-11-16"
+  },
+  {
+    "company": "Coinbase",
+    "ats": "greenhouse",
+    "slug": "coinbase",
+    "india_postings": 10,
+    "checked_on": "2026-11-16"
+  },
+  {
+    "company": "CRED",
+    "ats": "lever",
+    "slug": "cred",
+    "india_postings": 15,
+    "checked_on": "2026-11-16"
+  },
+  {
+    "company": "Databricks",
+    "ats": "greenhouse",
+    "slug": "databricks",
+    "india_postings": 84,
+    "checked_on": "2026-11-16"
+  },
+  {
+    "company": "Fivetran",
+    "ats": "greenhouse",
+    "slug": "fivetran",
+    "india_postings": 19,
+    "checked_on": "2026-11-16"
+  },
+  {
+    "company": "Freshworks",
+    "ats": "smartrecruiters",
+    "slug": "freshworks",
+    "india_postings": 32,
+    "checked_on": "2026-11-16"
+  },
+  {
+    "company": "Glance",
+    "ats": "greenhouse",
+    "slug": "glance",
+    "india_postings": 21,
+    "checked_on": "2026-11-16"
+  },
+  {
+    "company": "Grab",
+    "ats": "smartrecruiters",
+    "slug": "grab",
+    "india_postings": 10,
+    "checked_on": "2026-11-16"
+  },
+  {
+    "company": "Groww",
+    "ats": "greenhouse",
+    "slug": "groww",
+    "india_postings": 9,
+    "checked_on": "2026-11-16"
+  },
+  {
+    "company": "Hevo Data",
+    "ats": "lever",
+    "slug": "hevodata",
+    "india_postings": 37,
+    "checked_on": "2026-11-16"
+  },
+  {
+    "company": "InMobi",
+    "ats": "greenhouse",
+    "slug": "inmobi",
+    "india_postings": 42,
+    "checked_on": "2026-11-16"
+  },
+  {
+    "company": "Meesho",
+    "ats": "lever",
+    "slug": "meesho",
+    "india_postings": 48,
+    "checked_on": "2026-11-16"
+  },
+  {
+    "company": "MongoDB",
+    "ats": "greenhouse",
+    "slug": "mongodb",
+    "india_postings": 75,
+    "checked_on": "2026-11-16"
+  },
+  {
+    "company": "Paytm",
+    "ats": "lever",
+    "slug": "paytm",
+    "india_postings": 188,
+    "checked_on": "2026-11-16"
+  },
+  {
+    "company": "Pocket FM",
+    "ats": "lever",
+    "slug": "pocketfm",
+    "india_postings": 2,
+    "checked_on": "2026-11-16"
+  },
+  {
+    "company": "PubMatic",
+    "ats": "greenhouse",
+    "slug": "pubmatic",
+    "india_postings": 30,
+    "checked_on": "2026-11-16"
+  },
+  {
+    "company": "ServiceNow",
+    "ats": "smartrecruiters",
+    "slug": "servicenow",
+    "india_postings": 84,
+    "checked_on": "2026-11-16"
+  },
+  {
+    "company": "Sigmoid",
+    "ats": "greenhouse",
+    "slug": "sigmoid",
+    "india_postings": 35,
+    "checked_on": "2026-11-16"
+  },
+  {
+    "company": "Snowflake",
+    "ats": "ashby",
+    "slug": "snowflake",
+    "india_postings": 10,
+    "checked_on": "2026-11-16"
+  },
+  {
+    "company": "Stripe",
+    "ats": "greenhouse",
+    "slug": "stripe",
+    "india_postings": 42,
+    "checked_on": "2026-11-16"
+  },
+  {
+    "company": "Swiggy",
+    "ats": "smartrecruiters",
+    "slug": "swiggy",
+    "india_postings": 189,
+    "checked_on": "2026-11-16"
+  },
+  {
+    "company": "Twilio",
+    "ats": "greenhouse",
+    "slug": "twilio",
+    "india_postings": 12,
+    "checked_on": "2026-11-16"
+  },
+  {
+    "company": "Wise",
+    "ats": "smartrecruiters",
+    "slug": "wise",
+    "india_postings": 31,
+    "checked_on": "2026-11-16"
+  },
+  {
+    "company": "Zeta Global",
+    "ats": "greenhouse",
+    "slug": "zetaglobal",
+    "india_postings": 35,
+    "checked_on": "2026-11-16"
+  }
+]
